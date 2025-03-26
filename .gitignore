@@ -1,0 +1,5 @@
+# TEC_env folder
+TEC_env/
+
+# Additional for ipython
+.ipynb_checkpoints/
