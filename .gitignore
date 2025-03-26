@@ -64,3 +64,11 @@ Pipfile.lock
 # Mac and Linux system files
 .DS_Store
 Thumbs.db
+
+# Jupyter notebook metadata (optional, depends on tools/extensions)
+*.nbconvert.ipynb
+*.nbmetadata
+
+# JupyterLab workspace and state files
+.jupyter/
+.jupyterlab/
